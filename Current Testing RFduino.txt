@@ -1,0 +1,10 @@
+Current Testing RFduino
+	Debugging mode
+		1.53 mA resting disconnected
+		>5 mA advertising
+		1.73 mA resting  connected
+	Normal mode
+		7.38 uA resting disconnected
+		~5.28 mA Advertising
+		104 OR 230 uA resting connected		!!!!!!!
+		5 mA running
